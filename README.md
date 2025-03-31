@@ -1,6 +1,6 @@
 # Projetos de Sistemas Embarcados - EmbarcaTech 2025
 
-Autor: **Pedro Caio Moreria Costa**
+Autor: **Pedro Caio Moreria Costa - HBR - Campinas**
 
 Curso: Residência Tecnológica em Sistemas Embarcados
 
