@@ -7,11 +7,17 @@ Este repositório contém a implementação e os testes unitários para a funç�
 Estrutura do Projeto
 
 meu-projeto-pico/
+
 ├── temperatura_controle.h       # Protótipo de adc_to_celsius()
+
 ├── temperatura_controle.c       # Implementação da função e main() do firmware
+
 ├── test_temp.c                  # Teste unitário usando Unity
+
 ├── unity.c                      # Implementação do framework Unity
+
 ├── unity.h                      # Header do Unity
+
 ├── unity_internals.h            # Arquivo interno do Unity
 
 
